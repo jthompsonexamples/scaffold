@@ -1,0 +1,7 @@
+# packages needed in the project
+
+pylint 
+pytest
+click
+black
+pytest-cov
